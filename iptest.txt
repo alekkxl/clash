@@ -18,5 +18,5 @@ payload:
   - '+.ip.360.cn'
   - '+.l2.io'
   - '+.ip.sb'
-  - '.91p49.com'
-  - '.killcovid2021.com'
+  - '+.91p49.com'
+  - '+.killcovid2021.com'
